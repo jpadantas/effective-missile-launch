@@ -1,4 +1,4 @@
-# flames-missile-launch
+# effective-missile-launch
 2022 Winter Simulation Conference (WSC)
 
 Python code for the paper Supervised Machine Learning for Effective Missile Launch Based on Beyond Visual Range Air Combat Simulations.
