@@ -17,4 +17,4 @@ Please check the ipynb files:
 * 8-RF.ipynb: Random Forest
 * 9-XGBoost.ipynb:  Extreme Gradient Boosting,
 
-The data folder is empty because the missile launch data from the beyond visual range simulations was not allowed to be released in this moment.
+There is no data folder because the missile launch data from the beyond visual range simulations was not allowed to be released at this moment.
