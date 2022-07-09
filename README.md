@@ -9,10 +9,12 @@ Please check the ipynb files:
 
 * 1-EDA.ipynb: Exploratory Data Analysis;
 * 2-Feature-Selection.ipynb: Feature selection techniques using ANOVA-f Statistic and Mutual Information Statistics;
-* 3-LR: Logistic Regression
-* 4-KNN: K-nearest neighbors
-* 5-SVM: Support Vector Machines
-* 6-ANN: Artificial Neural Networks
-* 7-NB: Naive Bayes
-* 8-RF: Random Forest
-* 9-XGBoost:  Extreme Gradient Boosting,
+* 3-LR.ipynb: Logistic Regression
+* 4-KNN.ipynb: K-nearest neighbors
+* 5-SVM.ipynb: Support Vector Machines
+* 6-ANN.ipynb: Artificial Neural Networks
+* 7-NB.ipynb: Naive Bayes
+* 8-RF.ipynb: Random Forest
+* 9-XGBoost.ipynb:  Extreme Gradient Boosting,
+
+The data folder is empty because the missile launch data from the beyond visual range simulations was not allowed to be released in this moment.
