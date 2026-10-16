@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Code for: Supervised Machine Learning for Effective Missile Launch Based on Beyond Visual Range Air Combat Simulations"
+type: software
+authors:
+  - family-names: "Dantas"
+    given-names: "Joao P. A."
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+  - family-names: "Costa"
+    given-names: "Andre N."
+  - family-names: "Medeiros"
+    given-names: "Felipe L. L."
+  - family-names: "Geraldo"
+    given-names: "Diego"
+  - family-names: "Maximo"
+    given-names: "Marcos R. O. A."
+  - family-names: "Yoneyama"
+    given-names: "Takashi"
+repository-code: "https://github.com/jpadantas/effective-missile-launch"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  collection-title: "Proceedings of the 2022 Winter Simulation Conference (WSC)"
+  title: "Supervised Machine Learning for Effective Missile Launch Based on Beyond Visual Range Air Combat Simulations"
+  authors:
+    - family-names: "Dantas"
+      given-names: "Joao P. A."
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+    - family-names: "Costa"
+      given-names: "Andre N."
+    - family-names: "Medeiros"
+      given-names: "Felipe L. L."
+    - family-names: "Geraldo"
+      given-names: "Diego"
+    - family-names: "Maximo"
+      given-names: "Marcos R. O. A."
+    - family-names: "Yoneyama"
+      given-names: "Takashi"
+  start: "1990"
+  end: "2001"
+  year: 2022
+  publisher:
+    name: "IEEE"
+  doi: "10.1109/WSC57314.2022.10015384"
+  url: "https://www.joaopadantas.com/publications/dantas2022supervised/"
